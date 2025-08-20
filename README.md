@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B91CF&height=120&section=header"/>
 
-# 💻Filipe Machado
-
-**Estudante de Tecnologia**
+# 🧑🏻‍💻 Sobre Mim
 
 **Olá, me chamo Filipe e estou atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia.**
 

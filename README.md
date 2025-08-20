@@ -8,7 +8,6 @@
 </div>
 
 ###
-Linguagens de Programação </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -16,12 +15,6 @@ Linguagens de Programação </h2>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-Ferramentas </h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://logospng.org/wp-content/uploads/microsoft-excel.png" height="30" alt="javascript logo"  />
-</div>
-
-###
 
 <div align="left">
   <a href="filipemachado700@gmail.com" target="_blank">

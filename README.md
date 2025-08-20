@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B91CF&height=120&section=header"/>
+
 # 💻Filipe Machado
 
 **Estudante de Tecnologia**
@@ -27,6 +29,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=black)
 # **📊 Estatísticas**
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLPMSZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&include_all_commits=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FLPMSZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&include_all_commits=true" height="151" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FLPMSZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FLPMSZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&include_all_commits=true" height="101" alt="languages graph"  />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B91CF&height=120&section=footer"/>

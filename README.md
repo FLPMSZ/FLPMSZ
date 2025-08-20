@@ -18,7 +18,7 @@ Linguagens de Programação </h2>
 </div>
 Ferramentas </h2>
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://logospng.org/wp-content/uploads/microsoft-excel.png)" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://logospng.org/wp-content/uploads/microsoft-excel.png" height="30" alt="javascript logo"  />
 </div>
 
 ###

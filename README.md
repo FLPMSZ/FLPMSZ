@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B91CF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B86A&height=120&section=header"/>
 
-# 🧑🏻‍💻 Sobre Mim
+# Sobre Mim
 
 **Olá, me chamo Filipe e estou atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia.**
 
@@ -18,17 +18,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ## Banco De Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-## IDEs
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Ferramentas
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=black)
 # **📊 Estatísticas**
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLPMSZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FLPMSZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&include_all_commits=true" height="101" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FLPMSZ&show_icons=true&count_private=true&hide_border=true&title_color=16B86A&icon_color=ffffff&text_color=ffffff&bg_color=0d1117&locale=pt-br" alt="Filipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLPMSZ&layout=compact&hide_border=true&title_color=16B86A&text_color=ffffff&bg_color=0d1117" />
 </div>
+ 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B91CF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B86A&height=120&section=footer"/>

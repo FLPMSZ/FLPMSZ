@@ -1,5 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16B86A&height=120&section=header"/>
 
+<div align="center"> 
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://media.tenor.com/EotNekdu2acAAAAi/typing-on-computer-mark-grayson.gif" width="12%" alt="GIF">
+
+  </div> 
+<div align="left"> 
+
 # Sobre Mim
 
 **Olá, me chamo Filipe e estou atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta de Tecnologia.**

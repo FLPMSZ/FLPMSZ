@@ -31,8 +31,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=black)
 # **📊 Estatísticas**
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=flpmsz&show_icons=true&count_private=true&hide_border=true&title_color=16B86A&icon_color=ffffff&text_color=ffffff&bg_color=0B2C3B&locale=pt-br" alt="Filipe github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpmsz&layout=compact&hide_border=true&title_color=16B86A&text_color=ffffff&bg_color=0B2C3B" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FLPMSZ&show_icons=true&count_private=true&hide_border=true&title_color=16B86A&icon_color=ffffff&text_color=ffffff&bg_color=0B2C3B&locale=pt-br" alt="Filipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLPMSZ&layout=compact&hide_border=true&title_color=16B86A&text_color=ffffff&bg_color=0B2C3B" />
 </div>
  
 
